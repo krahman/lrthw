@@ -4,19 +4,19 @@
 
 * Install ruby.
 * Install git if you don't have it installed.
-* Then follow the step below:
+* Then follow the steps below:
 
 #### Clone this repo
 ```bash
-git clone https://github.com/krahman/lrthw.git
+$ git clone https://github.com/krahman/lrthw.git
 ```
 
 #### Go to lrthw directory
 ```bash
-cd lrthw
+$ cd lrthw
 ```
 
-#### Run excertice (e.g.; ex10)
+#### Run exercise (e.g.; ex10)
 ```bash
-ruby ex10.rb
+$ ruby ex10.rb
 ```
